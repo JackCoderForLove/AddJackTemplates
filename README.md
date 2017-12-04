@@ -69,15 +69,15 @@ IFS=$SAVEIFS
 ## <a id="#jackstep7"></a>选择定制Xib View
 * xcode6之后创建UIView是不能勾选xib的，创建View如果想用xib，有两种方式
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack7.png "杰克定制模板")
-  - 创建空的，没有任何关联的xib模板，在控制器里边去加载
-  - 创建xib模板，创建UIView组件，使xib文件和UIView组件关联起来，这时候相关的UI实现和逻辑，可以在UIView类里边去实现
+	* 创建空的，没有任何关联的xib模板，在控制器里边去加载
+	* 创建xib模板，创建UIView组件，使xib文件和UIView组件关联起来，这时候相关的UI实现和逻辑，可以在UIView类里边去实现
 * AddJackTemplates定制UIView
-  - 选择定制模板，UIView为父类，并勾选创建xib
+	* 选择定制模板，UIView为父类，并勾选创建xib
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack8.png "杰克定制模板")
   - UIView的xib和.h和.m自动关联，并生成相应的模块代码
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack11.png "杰克定制模板")
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack9.png "杰克定制模板")
-  - 如何使用创建的View
+	* 如何使用创建的View
 ```objc
     JCTestView *testView = [JCTestView instanceJackNibView];
     testView.frame =  CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height);
@@ -87,13 +87,13 @@ IFS=$SAVEIFS
   
 ## <a id="#jackcontroller"></a>定制控制器样式
 * 往往我们创建控制器之后，里边的方法原本是按着顺序写的，可是方法多了之后，就写乱了，这时候需要写mark来区分，每个控制器都需要自己添加，定制化控制器自动生成常用的mark和常用的代码块，这样方便很多。
-  * 选择定制化模板
+	* 选择定制化模板
   ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack3.png "杰克定制模板")
   
-  * 选择定制化控制器
+	* 选择定制化控制器
   ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
   
-  * 定制化控制器样式
+ 	* 定制化控制器样式
   ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack5.png "杰克定制模板")
   ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack6.png "杰克定制模板")
  
