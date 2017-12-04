@@ -2,7 +2,7 @@
 ## AddJackTemplates
 * 定制化UIKit模板，UIView xib一键生成和使用，定制头文件标题样式。
 ## Contents
-* Getting Started
+* Getting Started<br>
     * [支持的类【Support what kinds of controls to AddJackTemplates】](#Support_what_kinds_of_controls_to_AddJackTemplates)<br>
     * [使用【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)<br>
     * [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)<br>
@@ -58,8 +58,10 @@ IFS=$SAVEIFS
 ```
 ## <a id="#JackTemplates"></a>JackTemplates模板
 * 存放定制模板的文件夹
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
 ## <a id="jackaddsetp"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
 ## <a id="#Reference"></a>Reference
 * 近期更新
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
