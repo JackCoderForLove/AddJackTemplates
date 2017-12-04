@@ -7,10 +7,10 @@
     * [使用【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)<br>
     * [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)<br>
     * [目录【The Class Structure Chart of AddJackTemplates】](#The_Class_Structure_Chart_of_AddJackTemplates)<br>
-* Comment API<br>
-        * [AddJackTemplates.sh](#AddJackTemplates.sh)
-	* [JackTemplates模板](#JackTemplates)
-	* [xcode添加定制文件模板步骤](#jackaddsetp)
+* Comment API
+        * [AddJackTemplates.sh](#AddJackTemplates_Jack)
+	* [JackTemplates](#JackTemplates_Jack)
+	* [jackAddstep](#jackAddstep_Jack)
 * Examples
     * [Reference](#Reference)<br>
     * [选择定制模板](#jackstep3)<br>
@@ -39,7 +39,7 @@
 ## <a id="The_Class_Structure_Chart_of_AddJackTemplates"></a>The Class Structure Chart of AddJackTemplates
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack13.png "杰克定制模板")
 
-## <a id="AddJackTemplates.sh"></a>AddJackTemplates.sh
+## <a id="AddJackTemplates_Jack"></a>AddJackTemplates.sh
 ```sh
 # !/bin/sh
 
@@ -55,9 +55,9 @@ cp -R $JACK_APPLICATION_PATH $FILE_TEMPLATES_PATH
 IFS=$SAVEIFS
 
 ```
-## <a id="#JackTemplates"></a>JackTemplates模板
+## <a id="#JackTemplates_Jack"></a>JackTemplates模板
 * 存放定制模板的文件夹
-## <a id="#jackaddsetp"></a>xcode添加定制文件模板步骤
+## <a id="#jackAddstep_Jack"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
 ## <a id="#Reference"></a>Reference
 * 近期更新
