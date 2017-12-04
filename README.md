@@ -2,20 +2,20 @@
 ## AddJackTemplates
 * 定制化UIKit模板，UIView xib一键生成和使用，定制头文件标题样式。
 ## Contents
-* Getting Started<br>
-   *  [支持的类【Support what kinds of controls to AddJackTemplates】](#Support_what_kinds_of_controls_to_AddJackTemplates)<br>
-   *  [使用【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)<br>
-   *  [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)<br>
-   *  [目录【The Class Structure Chart of AddJackTemplates】](#The_Class_Structure_Chart_of_AddJackTemplates)<br>
+* Getting Started
+   *    [支持的类【Support what kinds of controls to AddJackTemplates】](#Support_what_kinds_of_controls_to_AddJackTemplates)
+   *    [使用【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)
+   *    [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)
+   *    [目录【The Class Structure Chart of AddJackTemplates】](#The_Class_Structure_Chart_of_AddJackTemplates)
 * Comment API
-	* [AddJackTemplates.sh](#AddJackTemplates.sh)<br>
-	* [JackTemplates.xctemplate](#JackTemplates.xctemplate)<br>
-	* [xcode添加定制文件模板步骤](#jackaddsetp)<br>
+	* [AddJackTemplates.sh](#AddJackTemplates.sh)
+	* [JackTemplates.xctemplate](#JackTemplates)
+	* [xcode添加定制文件模板步骤](#jackaddsetp)
 * Examples
-      *  [Reference](#Reference)<br>
-      *  [选择定制模板](#jackstep3)<br>
-      *  [选择定制Xib View](#jackstep7)<br>
-      *  [定制控制器样式](#jackcontroller)<br>
+      *  [Reference](#Reference)
+      *  [选择定制模板](#jackstep3)
+      *  [选择定制Xib View](#jackstep7)
+      *  [定制控制器样式](#jackcontroller)
 * [Hope](#Hope)
 ## <a id="Support_what_kinds_of_controls_to_AddJackTemplates"></a>Support what kinds of controls to AddJackTemplates
 * `NSObject-Objective-C`、`NSObject-Swift`、`UIViewController-Objective-C`、`UIViewController-Swift`、`UIViewControllerXIB-Objective-C`、`UIViewControllerXIB-Swift`、`UIView-Objective-C`、`UIView-Swift`、`UIViewXIB-Objective-C`、`UICollectionReusableView-Objective-C`、`UICollectionReusableView-Swift`、`UICollectionReusableViewXIB-Objective-C`、`UICollectionReusableViewXIB-Swift`、`UICollectionViewCell-Objective-C`、`UICollectionViewCell-Swift`、`UICollectionViewCellXIB-Objective-C`、`UICollectionViewCellXIB-Swift`、`UICollectionViewController-Objective-C`、`UICollectionViewController-Swift`、`UICollectionViewControllerXIB-Objective-C`、`UICollectionViewControllerXIB-Swift`、`UITableViewCell-Objective-C`、`UITableViewCell-Swift`、`UITableViewCellXIB-Objective-C`、`UITableViewCellXIB-Swift`、`UITableViewController-Objective-C`、`UITableViewController-Swift`、`UITableViewControllerXIB-Objective-C`、`UITableViewControllerXIB-Swift`、`UIScrollView`、`UITableView`、`UICollectionView`
@@ -55,7 +55,7 @@ cp -R $JACK_APPLICATION_PATH $FILE_TEMPLATES_PATH
 IFS=$SAVEIFS
 
 ```
-## <a id="#JackTemplates.xctemplate"></a>JackTemplates.xctemplate
+## <a id="#JackTemplates"></a>JackTemplates.xctemplate
 * 存放定制模板的文件夹
 ## <a id="jackaddsetp"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
