@@ -35,11 +35,12 @@
 
 ## <a id="More_than_hundreds_of_Apps_are_using_AddJackTemplates"></a>More than hundreds of Apps are using AddJackTemplates
 <img src=https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack14.jpeg width="320" height="568">
-![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack14.jpeg "杰克定制模板")
 * More information of App can focus on:[神龙无敌大将](https://github.com/JackCoderForLove)
 
-Add OC Customization templates to Xcode ，pls modify PROJECT_TEMPLATES_PATH and FILE_TEMPLATES_PATH as your need.
+## <a id="The_Class_Structure_Chart_of_AddJackTemplates"></a>The Class Structure Chart of AddJackTemplates
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack13.png "杰克定制模板")
 
+## <a id="AddJackTemplates.sh"></a>AddJackTemplates.sh
 ```sh
 # !/bin/sh
 
@@ -55,3 +56,21 @@ cp -R $JACK_APPLICATION_PATH $FILE_TEMPLATES_PATH
 IFS=$SAVEIFS
 
 ```
+## <a id="#JackTemplates.xctemplate"></a>JackTemplates.xctemplate
+* 存放定制模板的文件夹
+## <a id="jackaddsetp"></a>xcode添加定制文件模板步骤
+* 使用说明文档rtf格式
+## <a id="#Reference"></a>Reference
+
+## <a id="jackstep3"></a>选择定制模板
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack13.png "杰克定制模板")
+## <a id="#jackstep7"></a>选择定制Xib View
+## <a id="#jackstepController"></a>定制控制器样式
+## <a id="#jackstepView"></a>定制View样式
+## <a id="Hope"></a>Hope
+* If you find bug when used，Hope you can Issues me，Thank you or try to download the latest code of this framework to see the BUG has been fixed or not）
+* If you find the function is not enough when used，Hope you can Issues me，I very much to add more useful function to this framework ，Thank you !
+* If you want to contribute code for AddJackTemplates，please Pull Requests me
+* If you use AddJackTemplates in your develop app，Hope you can send a email to me for your app，my email is 979900351@qq.com。
+I Will install your app，and according to the usage of many app，to be a better design and improve to AddJackTemplates，Thank you !
+
