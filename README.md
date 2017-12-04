@@ -1,3 +1,7 @@
+![(jacklogo)](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/JackTemplates.xctemplate/TemplateIcon.png "杰克logo")
+## AddJackTemplates
+* 定制化UIKit模板，UIView xib一键生成和使用，头文件标题样式。
+
 第一步确定你安装Xcode之后在应用程序中的绝对路径是什么?（可以用终端进入Xcode 中然后pwd下就有Xcode的绝对路径了）
 
 如果你的电脑上安装了两个xcode ，要找到xcode的安装绝对路径 ，确保你找的xcode的绝对路径是对的
