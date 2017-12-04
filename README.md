@@ -74,7 +74,7 @@ IFS=$SAVEIFS
 * AddJackTemplates定制UIView
 	* 选择定制模板，UIView为父类，并勾选创建xib
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack8.png "杰克定制模板")
-  - UIView的xib和.h和.m自动关联，并生成相应的模块代码
+        * UIView的xib和.h和.m自动关联，并生成相应的模块代码
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack11.png "杰克定制模板")
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack9.png "杰克定制模板")
 	* 如何使用创建的View
