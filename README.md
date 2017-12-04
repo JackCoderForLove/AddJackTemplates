@@ -4,7 +4,7 @@
 
 
 比如:xcode的绝对路径是/Applications/Xcode.app ，接下来打开AddJackTemplates.sh文件，把下面图中红色框内的路径改为/Applications/Xcode.app，如果和红色框内的路径一样那么就不用修改了。
-
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/img/jack1.png "杰克定制模板") 
 
 Add OC Customization templates to Xcode ，pls modify PROJECT_TEMPLATES_PATH and FILE_TEMPLATES_PATH as your need.
 
