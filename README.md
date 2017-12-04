@@ -20,13 +20,16 @@
 * [Hope](#Hope)
 ## <a id="Support_what_kinds_of_controls_to_AddJackTemplates"></a>Support what kinds of controls to AddJackTemplates
 * `NSObject-Objective-C`、`NSObject-Swift`、`UIViewController-Objective-C`、`UIViewController-Swift`、`UIViewControllerXIB-Objective-C`、`UIViewControllerXIB-Swift`、`UIView-Objective-C`、`UIView-Swift`、`UIViewXIB-Objective-C`、`UICollectionReusableView-Objective-C`、`UICollectionReusableView-Swift`、`UICollectionReusableViewXIB-Objective-C`、`UICollectionReusableViewXIB-Swift`、`UICollectionViewCell-Objective-C`、`UICollectionViewCell-Swift`、`UICollectionViewCellXIB-Objective-C`、`UICollectionViewCellXIB-Swift`、`UICollectionViewController-Objective-C`、`UICollectionViewController-Swift`、`UICollectionViewControllerXIB-Objective-C`、`UICollectionViewControllerXIB-Swift`、`UITableViewCell-Objective-C`、`UITableViewCell-Swift`、`UITableViewCellXIB-Objective-C`、`UITableViewCellXIB-Swift`、`UITableViewController-Objective-C`、`UITableViewController-Swift`、`UITableViewControllerXIB-Objective-C`、`UITableViewControllerXIB-Swift`、`UIScrollView`、`UITableView`、`UICollectionView`、`UIWebView`
-第一步确定你安装Xcode之后在应用程序中的绝对路径是什么?（可以用终端进入Xcode 中然后pwd下就有Xcode的绝对路径了）
+## <a id="How_to_use_AddJackTemplates"></a>How_to_use_AddJackTemplates
 
+*第一步确定你安装Xcode之后在应用程序中的绝对路径是什么?（可以用终端进入Xcode 中然后pwd下就有Xcode的绝对路径了）
 如果你的电脑上安装了两个xcode ，要找到xcode的安装绝对路径 ，确保你找的xcode的绝对路径是对的
-
-
 比如:xcode的绝对路径是/Applications/Xcode.app ，接下来打开AddJackTemplates.sh文件，把下面图中红色框内的路径改为/Applications/Xcode.app，如果和红色框内的路径一样那么就不用修改了。
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack1.png "杰克定制模板") 
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack2.png "杰克定制模板") 
+
+* 第二步打开终端，用指令cd 进入目录 AddJackTemplates-master（要找到你存放AddMissingTemplates-master的路径），然后运行里面的脚本AddJackTemplates.sh就ok了。怎么运行脚本呢和运行二进制程序是一样的, 命令行是这样的:. +空格+名称(AddJackTemplates.sh)。
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack12.png "杰克定制模板") 
 
 Add OC Customization templates to Xcode ，pls modify PROJECT_TEMPLATES_PATH and FILE_TEMPLATES_PATH as your need.
 
