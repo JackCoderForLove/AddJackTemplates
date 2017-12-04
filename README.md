@@ -7,7 +7,7 @@
     * [使用【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)<br>
     * [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)<br>
     * [目录【The Class Structure Chart of AddJackTemplates】](#The_Class_Structure_Chart_of_AddJackTemplates)<br>
-* Comment API
+* Comment API<br>
         * [AddJackTemplates.sh](#AddJackTemplates.sh)
 	* [JackTemplates模板](#JackTemplates)
 	* [xcode添加定制文件模板步骤](#jackaddsetp)
