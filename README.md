@@ -34,7 +34,7 @@
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack12.png "杰克定制模板") 
 
 ## <a id="More_than_hundreds_of_Apps_are_using_AddJackTemplates"></a>More than hundreds of Apps are using AddJackTemplates
-![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack14.jpeg width:320 height:568 "杰克定制模板")
+![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack14.jpeg width="320" height="568" "杰克定制模板")
 * More information of App can focus on:[神龙无敌大将](https://github.com/JackCoderForLove)
 
 Add OC Customization templates to Xcode ，pls modify PROJECT_TEMPLATES_PATH and FILE_TEMPLATES_PATH as your need.
