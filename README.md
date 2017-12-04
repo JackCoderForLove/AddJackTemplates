@@ -57,13 +57,13 @@ IFS=$SAVEIFS
 ```
 ## <a id="#JackTemplates"></a>JackTemplates模板
 * 存放定制模板的文件夹
-## <a id="jackaddsetp"></a>xcode添加定制文件模板步骤
+## <a id="#jackaddsetp"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
 ## <a id="#Reference"></a>Reference
 * 近期更新
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
 
-## <a id="jackstep3"></a>选择定制模板
+## <a id="#jackstep3"></a>选择定制模板
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack3.png "杰克定制模板")
 
 ## <a id="#jackstep7"></a>选择定制Xib View
