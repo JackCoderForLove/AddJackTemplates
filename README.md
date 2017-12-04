@@ -2,7 +2,7 @@
 ## AddJackTemplates
 * 定制化UIKit模板，UIView xib一键生成和使用，定制头文件标题样式。
 ## Contents
-* Getting Started
+* Getting Started<br>
     * [特性【Support what kinds of controls to AddJackTemplates】](#Support_what_kinds_of_controls_to_AddJackTemplates)<br>
     * [安装【How to use AddJackTemplates】](#How_to_use_AddJackTemplates)<br>
     * [谁在使用【More than hundreds of Apps are using AddJackTemplates】](#More_than_hundreds_of_Apps_are_using_AddJackTemplates)<br>
