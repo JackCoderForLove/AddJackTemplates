@@ -34,7 +34,7 @@
 
 ## <a id="More_than_hundreds_of_Apps_are_using_AddJackTemplates"></a>More than hundreds of Apps are using AddJackTemplates
 <img src=https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack14.jpeg width="320" height="568">
-* More information of App can focus on:[神龙无敌大将](https://github.com/JackCoderForLove)
+	* More information of App can focus on:[神龙无敌大将](https://github.com/JackCoderForLove)
 
 ## <a id="The_Class_Structure_Chart_of_AddJackTemplates"></a>The Class Structure Chart of AddJackTemplates
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack13.png "杰克定制模板")
