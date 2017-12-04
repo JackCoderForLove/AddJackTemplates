@@ -55,18 +55,18 @@ cp -R $JACK_APPLICATION_PATH $FILE_TEMPLATES_PATH
 IFS=$SAVEIFS
 
 ```
-## <a id="#JackTemplates_Jack"></a>JackTemplates模板
+## <a id="JackTemplates_Jack"></a>JackTemplates模板
 * 存放定制模板的文件夹
-## <a id="#jackAddstep_Jack"></a>xcode添加定制文件模板步骤
+## <a id="jackAddstep_Jack"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
-## <a id="#Reference"></a>Reference
+## <a id="Reference"></a>Reference
 * 近期更新
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
 
-## <a id="#jackstep3"></a>选择定制模板
+## <a id="jackstep3"></a>选择定制模板
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack3.png "杰克定制模板")
 
-## <a id="#jackstep7"></a>选择定制Xib View
+## <a id="jackstep7"></a>选择定制Xib View
 * xcode6之后创建UIView是不能勾选xib的，创建View如果想用xib，有两种方式
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack7.png "杰克定制模板")
 	* 创建空的，没有任何关联的xib模板，在控制器里边去加载
@@ -85,7 +85,7 @@ IFS=$SAVEIFS
 ```
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack10.png "杰克定制模板")
   
-## <a id="#jackcontroller"></a>定制控制器样式
+## <a id="jackcontroller"></a>定制控制器样式
 * 往往我们创建控制器之后，里边的方法原本是按着顺序写的，可是方法多了之后，就写乱了，这时候需要写mark来区分，每个控制器都需要自己添加，定制化控制器自动生成常用的mark和常用的代码块，这样方便很多。
 	* 选择定制化模板
   ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack3.png "杰克定制模板")
