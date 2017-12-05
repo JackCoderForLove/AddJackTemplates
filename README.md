@@ -10,7 +10,7 @@
 * Comment API
 	* [AddJackTemplates.sh](#AddJackTemplates_Jack)
 	* [JackTemplates](#JackTemplates_Jack)
-	* [jackAddstep](#jackAddstep_Jack)
+	* [xcode添加定制文件模板步骤](#jackAddstep_Jack)
 * Examples
 	* [选择定制模板](#jackstep3)<br>
 	* [选择定制Xib View](#jackstep7)<br>
