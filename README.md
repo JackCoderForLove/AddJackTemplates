@@ -1,6 +1,6 @@
 ![(jacklogo)](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/JackTemplates.xctemplate/TemplateIcon.png "杰克logo")
 ## AddJackTemplates
-* 定制化UIKit模板，UIView xib一键生成和使用，定制头文件标题样式。
+* xcode定制文件模板，UIView绑定xib一键生成，统一头文件标题样式。
 ## Contents
 * Getting Started
 	* [支持的类【Support what kinds of controls to AddJackTemplates】](#Support_what_kinds_of_controls_to_AddJackTemplates)<br>
@@ -12,7 +12,6 @@
 	* [JackTemplates](#JackTemplates_Jack)
 	* [jackAddstep](#jackAddstep_Jack)
 * Examples
-	* [Reference](#Reference)<br>
 	* [选择定制模板](#jackstep3)<br>
 	* [选择定制Xib View](#jackstep7)<br>
 	* [定制控制器样式](#jackcontroller)<br>
@@ -59,9 +58,6 @@ IFS=$SAVEIFS
 * 存放定制模板的文件夹
 ## <a id="jackAddstep_Jack"></a>xcode添加定制文件模板步骤
 * 使用说明文档rtf格式
-## <a id="Reference"></a>Reference
-* 近期更新
-![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack4.png "杰克定制模板")
 
 ## <a id="jackstep3"></a>选择定制模板
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack3.png "杰克定制模板")
@@ -74,7 +70,7 @@ IFS=$SAVEIFS
 * AddJackTemplates定制UIView
 	* 选择定制模板，UIView为父类，并勾选创建xib
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack8.png "杰克定制模板")
-        * UIView的xib和.h和.m自动关联，并生成相应的模块代码
+	* UIView的xib和.h和.m自动关联，并生成相应的模块代码
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack11.png "杰克定制模板")
 ![jack](https://github.com/JackCoderForLove/AddJackTemplates/blob/master/img/jack9.png "杰克定制模板")
 	* 如何使用创建的View
